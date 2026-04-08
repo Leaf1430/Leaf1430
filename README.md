@@ -6,7 +6,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Design/HTML/CSS/Github
 - 😄 Pronouns: he/him
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Leaf1430&show=reviews&show_icons=true&theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<div>
+  <img src="https//github-readme-streak-stats.herokuapp.com/?user=Leaf1430&theme=dark"/>
+  <img src="https//github-readme-streak-stat.herokuapp.com/?user=Leaf1430&theme=radical"/>
+</div>
 
 <div> 
   <a href="https://beacons.ai/Leaf1430">
