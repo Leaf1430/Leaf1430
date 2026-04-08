@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <div>
   <img height="100em" src="https//github-readme-streak-stats.herokuapp.com/?user=Leaf1430&theme=dark"/>
-  <img height="100em" src="https//github-readme-streak-stat.herokuapp.com/?user=Leaf1430&theme=radical"/>
+  <img height="100em" src="https//github-readme-streak-stat.herokuapp.com/?user=Leaf1430&theme=dracula"/>
 </div>
 
 <div> 
