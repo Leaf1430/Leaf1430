@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 <div> 
-  <a hfef="https://beacons.ai/Leaf1430">
+  <a href="https://beacons.ai/Leaf1430">
     <img height="100" src="https://github-readme-stats.vercel.app/api?username=Leaf1430&show_icons=true&theme=radical
 </div>
 <div style="display: inline_block"><br>
