@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 <div>
-  <img src="https//github-readme-streak-stats.herokuapp.com/?user=Leaf1430&theme=dark"/>
-  <img src="https//github-readme-streak-stat.herokuapp.com/?user=Leaf1430&theme=radical"/>
+  <img height="100em" src="https//github-readme-streak-stats.herokuapp.com/?user=Leaf1430&theme=dark"/>
+  <img height="100em" src="https//github-readme-streak-stat.herokuapp.com/?user=Leaf1430&theme=radical"/>
 </div>
 
 <div> 
