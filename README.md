@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 <div>
-  <a href=
-  <img height="100em" src="https//github-readme-streak-stats.herokuapp.com/?user=Leaf1430&theme=dark"/>
-  <img height="100em" src="https//github-readme-streak-stat.herokuapp.com/?user=Leaf1430&theme=dracula"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Leaf1430=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div> 
