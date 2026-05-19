@@ -1,6 +1,14 @@
+# 👋 Olá! Eu sou Rafael
+
+🎓 Estudante de Design  
+💻 Aprendendo Front-end e UX/UI  
+📍 Blumenau - SC
+
+---
+
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 10px;">
   <img align="center" alt="HTML" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
@@ -11,9 +19,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-<br><br>
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
   <img height="180em"
@@ -22,3 +28,19 @@
   <img height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leaf1430&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+---
+
+## 📫 Contato
+
+📧 Email: rafavini82@gmail.com  
+📸 Instagram: @rafavin1  
+💼 LinkedIn: linkedin.com/in/rafael-vinícius-da-rocha
+
+---
+
+## ✨ Sobre mim
+
+- 🌱 Atualmente aprendendo HTML5, CSS3 e JavaScript
+- 🎨 Interesse em UX/UI e Front-End
+- 🚀 Focado em evoluir como desenvolvedor front-end
