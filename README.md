@@ -24,7 +24,7 @@
 
 📧 Email: rafavini82@gmail.com  
 📸 Instagram: @rafavin1  
-💼 LinkedIn: linkedin.com/in/rafael-vinícius-da-rocha
+💼 Linkedin: linkedin.com/in/rafael-vinícius-da-rocha
 
 ---
 
