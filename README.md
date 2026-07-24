@@ -4,7 +4,6 @@
 💻 Aprendendo Front-end e UX/UI  
 📍 Blumenau - SC
 
----
 
 ## 🚀 Tecnologias
 
@@ -16,13 +15,10 @@
   <img alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
 </p>
 
----
-
 <div align="center">
   <img height="180em" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leaf1430&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leaf1430&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
----
 
 ## 📫 Contato
 
@@ -34,6 +30,6 @@
 
 ## ✨ Sobre mim
 
-- 🌱 Atualmente aprendendo HTML5, CSS3 e JavaScript
+- 🌱 Atualmente aprendendo HTML5, CSS3, JavaScript, TypeScript e Angular 22
 - 🎨 Interesse em UX/UI e Front-End
-- 🚀 Focado em evoluir como desenvolvedor front-end
+- 🚀 Focado em evoluir como desenvolvedor front-end e Ui Designer
